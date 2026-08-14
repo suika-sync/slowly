@@ -10,7 +10,7 @@
 
 ### ダウンロード
 
-[Releases](https://github.com/user/slowly/releases) からダウンロード。
+[Releases](https://github.com/suika-sync/slowly/releases/) からダウンロード。
 
 ### ソースからビルド
 

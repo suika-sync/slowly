@@ -10,7 +10,7 @@ When testing streaming applications or piped processes, you often need to send d
 
 ### Download
 
-Download from [Releases](https://github.com/user/slowly/releases).
+Download from [Releases](https://github.com/suika-sync/slowly/releases/).
 
 ### Build from source
 

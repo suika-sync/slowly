@@ -10,7 +10,7 @@
 
 ### 下载
 
-从 [Releases](https://github.com/user/slowly/releases) 下载。
+从 [Releases](https://github.com/suika-sync/slowly/releases/) 下载。
 
 ### 从源码编译
 
